@@ -1,9 +1,9 @@
 import { Text, View } from "react-native";
 
-export default function TabOneScreen() {
+export default function ComandsScreen() {
   return (
     <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-      <Text>Tab One Screen</Text>
+      <Text>Comands Screen</Text>
     </View>
   );
 }
